@@ -130,3 +130,8 @@
 ## [20190718](https://github.com/nutti/fake-bpy-module/compare/440127e2db7ea05b8ee58d14d84eb252681906cf...20190718) - 2019.7.18
 
 First release.
+
+
+### Contributors
+
+* [**@echantry**](https://github.com/echantry)
