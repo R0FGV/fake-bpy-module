@@ -105,3 +105,4 @@ Support via [GitHub Sponsors](https://github.com/sponsors/nutti)
 ### Contributors
 
 * [**@grische**](https://github.com/grische)
+* [**@echantry**](https://github.com/echantry)
