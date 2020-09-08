@@ -66,6 +66,11 @@ You can also generate modules manually.
 See [Generate Module](docs/generate_modules.md) for detail.
 
 
+## Change Log
+
+See [CHANGELOG.md](CHANGELOG.md)
+
+
 ## Bug report / Feature request / Disscussions
 
 If you want to report bug, request features or discuss about this add-on, see [ISSUES.md](ISSUES.md).
